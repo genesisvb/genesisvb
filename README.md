@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Genesis</h1>
-<h3 align="center">A passionate full-stack developer 💻 from Venezuela 🇻🇪 living in Canada 🇨🇦</h3>
+<h3 align="center">A passionate web developer 💻 from Venezuela 🇻🇪 living in Canada 🇨🇦</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genesisvivasb&label=Profile%20views&color=0e75b6&style=flat" alt="genesisvivasb" /> </p>
 
